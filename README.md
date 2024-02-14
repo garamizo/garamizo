@@ -1,16 +1,16 @@
-### Hi there 👋
+### About Me
 
-<!--
-**garamizo/garamizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a Mechatronics Engineer who wants to build things! My main interests are Robotics, 3D-Printing, and Computer Vision :eyes:
+- You can reach me via email (garamizo91@gmail.com), [LinkedIn](https://www.linkedin.com/in/garamizo/), [Printables](https://www.printables.com/@garamizo) or GitHub issues.
+- I would welcome your feedback on my projects and suggestions for new features!
 
-Here are some ideas to get you started:
+### Project Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Title | Description | Status | Future Steps |
+| --- | --- | --- | --- |
+| [Plant-Timelapse](https://github.com/garamizo/Plant-Timelapse) | Records a timelapse of a plant and saves to a cloud storage | completed | Access timelapse from internet |
+| [Azul-Board-Game](https://github.com/garamizo/Azul-Board-Game) | AI recognizes board from images and plays against player with high skill |  completed | Join detection and play modules |
+| [Automated-Window-Blinds](https://github.com/garamizo/Automated-Window-Blinds) | Window blinds with hidden mechanism controlled over the cloud and Alexa commands |  completed | Replace motor for faster operation |
+| [xmas-lights](https://github.com/garamizo/xmas-lights) | Animates a Christmas tree with colorful geometric patterns | completed | Sync blink patterns with music |
+| [BipedRobot](https://github.com/garamizo/BipedRobot) | Build and Control of a Walking Robot | completed | Add compliant joints |
+| [Racquetball-Eagle-Eyes](https://github.com/garamizo/Racquetball-Eagle-Eye) | Detect short serve in a racquetbal game using vision | in progress | NA |
