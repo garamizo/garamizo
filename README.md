@@ -1,6 +1,6 @@
 ### About Me
 
-- I am a Mechatronics Engineer who wants to build things! My main interests are Robotics, 3D-Printing, and Computer Vision :eyes:
+- I am a Mechatronics Engineer who wants to build things! My main interests are Robotics, 3D-Printing, IoT, and Computer Vision :eyes:
 - You can reach me via email (garamizo91@gmail.com), [LinkedIn](https://www.linkedin.com/in/garamizo/), [Printables](https://www.printables.com/@garamizo) or GitHub issues.
 - I would welcome your feedback on my projects and suggestions for new features!
 
